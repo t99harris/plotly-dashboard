@@ -38,7 +38,7 @@ path = '../data/'
 
 
 # Call the data
-df = pd.read_csv(path + 'Revenue data/Data.csv')
+df = pd.read_csv(path + 'Revenue_data/Data.csv')
 
 
 # ## Create and Arrange Data Variables 
