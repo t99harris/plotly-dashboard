@@ -31,15 +31,15 @@ from plotly.colors import DEFAULT_PLOTLY_COLORS   # chart default colors
 
 
 # Path of the data's location
-path = '../data/'
+#path = '../data/'
 
 
 # In[4]:
 
 
 # Call the data
-df = pd.read_csv(path + 'Revenue_data/Data.csv')
-
+#df = pd.read_csv(path + 'Revenue_data/Data.csv')
+df = pd.read_csv('Data.csv')
 
 # ## Create and Arrange Data Variables 
 
